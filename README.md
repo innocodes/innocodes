@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Innocent Oyebode @innocodes
-- 👀 I’m interested in fullstack Javascript development
-- 🌱 I’m currently building projects using Javascript/Typescript, Angular and ReactNative
+- 👀 Javascript Development
+- 🌱 I’m currently building projects using Javascript/Typescript, Angular, React and ReactNative
 - 💞️ I’m looking to collaborate on Web and Mobile Application Development 
 - 📫 You can reach me via email: oyebodeinnocent@gmail.com
 
