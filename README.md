@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Innocent Oyebode @innocodes
-- 👀 Javascript Development
-- 🌱 I’m currently building projects using Javascript/Typescript, Angular, React and ReactNative
-- 💞️ I’m looking to collaborate on Web and Mobile Application Development 
-- 📫 You can reach me via email: oyebodeinnocent@gmail.com
+- 👋 Innocent Oyebode @innocodes
+- 😎 Javascript (+Typescript) Developer
+- 🌱 Building Angular, React and ReactNative Projects
+- 💞️ Open to Freelance and Remote Opportunities
+- 📫 Email contact: oyebodeinnocent@gmail.com
 
 <!---
 innocodes/innocodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
