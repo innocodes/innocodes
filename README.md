@@ -1,6 +1,6 @@
 - 👋 Innocent Oyebode @innocodes
 - 😎 Javascript (+Typescript) Developer
-- 🌱 Building Angular, React and ReactNative Projects
+- 🌱 Building Angular, React and React Native Projects
 - 💞️ Open to Freelance and Remote Opportunities
 - 📫 Email contact: oyebodeinnocent@gmail.com
 
